@@ -25,7 +25,7 @@ Ever feel like the macOS menu bar icons are too spread out (or too cramped)? Thi
 * **Permissions:** This app requires the "App Sandbox" to be disabled (if building from source) so it can modify system defaults and refresh the Control Center.
 
 ## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/livelybride-faith/MenuBarSpacingController/blob/main/LICENSE.txt) file for details.
 
 ## Open Source
 1. You can check all the code I used in the app.
