@@ -11,7 +11,7 @@ Ever feel like the macOS menu bar icons are too spread out (or too cramped)? Thi
 * **Safety Reset:** A "Restore Default" button to get back to the standard macOS look instantly.
 
 ## 🚀 Installation
-1. Download the application from the Dist folder page.
+1. Download the application from the [Dist](https://github.com/livelybride-faith/MenuBarSpacingController/blob/main/Dist/MenuBarSpacingController%202026-01-30%2013-00-28/MenuBarSpacingController.app/Contents/MacOS/MenuBarSpacingController) folder page.
 2. Drag **Menu Bar Spacer** to your Applications folder (optional).
 3. **Note:** Since this app is not notarized, you may need to right-click the app and select **Open** the first time you run it.
 
